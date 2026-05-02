@@ -5,7 +5,7 @@ Fetches posts from a Bearblog RSS feed and saves them as markdown files.
 
 Usage:
   Set the BEARBLOG_RSS_URL environment variable to your Bearblog RSS feed URL.
-  e.g. https://iankwatkins.com/feed/
+  e.g. https://YOURBLOG.com/feed/ or your subdomain at bearblog (or your blogging platform of choice)
 
 Posts are saved to: posts/{slug}.md
 """
