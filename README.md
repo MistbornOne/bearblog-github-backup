@@ -2,7 +2,7 @@
 
 This little script was written out of a desire to backup my <a href="https://bearblog.dev" target="_blank">Bearblog</a> site.  The blogging platform is great, but the only built in way to back up your blog is very manual - so I made a way to utilize the RSS feed to do so.
 
-[!NOTE]
+>[!NOTE]
 >One thing to note is that the RSS feed is limited to 10 most recent posts, so you need to manually add any older posts by downloading them from the Settings section of your Bearblog dashboard (use the markdown option) and uploading them into the GitHub repository.
 
 ## How to Use 🧠
