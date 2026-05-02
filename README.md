@@ -21,4 +21,4 @@ Feel free to open an issue or PR! Feature requests and bug reports are welcome.
 
 📝 License
 
-[MIT](https://opensource.org/license/mit) © Ian Watkins
+[MIT](https://github.com/MistbornOne/bearblog-github-backup/blob/main/LICENSE) © Ian Watkins
