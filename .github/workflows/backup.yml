@@ -2,7 +2,7 @@ name: Backup Bearblog via RSS
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    # - cron: "0 */6 * * *" # Runs every 6 hours after you remove the front comment hash
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
