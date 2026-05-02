@@ -18,8 +18,8 @@ Also, I built in logic to prevent duplicates by simply naming the file the `titl
 1. Clone or fork this repo -or- create your own repo for storing your backup
 2. Go into the .github/workflows directory and remove the '#' from the front of line 5 (# - cron: "0 */6 * * *" # Runs every 6 hours after you remove the front comment hash) to ensure the workflow will run
 3. Be sure that you go to the repo settings, then add a variable to actions (currently under secrets and variables)
-  a. Name the variable: BEARBLOG_RSS_URL
-  b. Make the content your RSS feed: https://YOURBLOG.com/feed/
+  1. Name the variable: BEARBLOG_RSS_URL
+  2. Make the content your RSS feed: https://YOURBLOG.com/feed/
 
 That's it!  Now, you can manually trigger the workflow under actions to see if it works.  If not, GitHub will give you the specific error that caused it to fail.
 
